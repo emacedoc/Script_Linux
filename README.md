@@ -1,1 +1,1 @@
-# script_llinux
+# script_linux
